@@ -1,10 +1,6 @@
-## Hi there 👋
+#### Hello 🍳
 
-
-- 🔭 I’m currently working on Fixer
-- 🌱 I’m currently learning Flutter
-- 👯 I’m looking to collaborate on Don Simon
-- 🤔 I’m looking for help with Lambda
-- 💬 Ask me about Shrek
-- 📫 How to reach me: belman_alucin
-- ⚡ Fun fact: I like tamales with milk
+- 🎓 Software Engineering student @ TecNM Mexicali  
+- 🔭 Currently working as a developer at Fixer  
+- 📫 Reach me at: abelmanfranco@gmail.com · [LinkedIn](https://www.linkedin.com/in/andrea-belman-0a4383216/)  
+- 🎈 Fun fact: I like tamales with milk 🫔🥛 (don’t judge me)
