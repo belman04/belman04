@@ -4,7 +4,7 @@
 - 🔭 Currently working as a developer at <b> Fixer </b>
 - 🎈 Fun fact: I like tamales with milk 🫔🥛 (don’t judge me)
 
-## ☎️ Contact:
+# ☎️ Contact:
 * [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abelmanfranco@gmail.com)
 * [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrea-belman-0a4383216/)
 
