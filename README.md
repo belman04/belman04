@@ -1,7 +1,7 @@
 # 🍳 About Me: 
 #### Hello 👀
-- 🎓 Software Engineering student <br> @ TecNM Mexicali  </br>
-- 🔭 Currently working as a developer at <br> Fixer <br>
+- 🎓 Software Engineering student <b> @ TecNM Mexicali  </b>
+- 🔭 Currently working as a developer at <b> Fixer </b>
 - 🎈 Fun fact: I like tamales with milk 🫔🥛 (don’t judge me)
 
 ## ☎️ Contact:
